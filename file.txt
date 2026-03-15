@@ -1,0 +1,21 @@
+Highlights
+
+Manual testing
+JIRA tool
+SQL with MYSQL benchmark sw
+JAVA project
+GIT/GIT HUB
+Mavon project
+Selenium
+Test NG
+Cucumber
+
+Dependacies
+
+Apache POI 5.5.1-File reading
+Selenium 4.40.0- Web Driver
+ExtentReport 5.1.1
+Cucumber java 7.14.0
+Cucumber Junit 7.14.0
+Junit 4.13.2
+
